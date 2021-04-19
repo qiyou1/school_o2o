@@ -1,0 +1,24 @@
+2021-04-07 09:58:35.249 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on qiyoudeMac-mini.local with PID 8648 (/Users/qiyou/Documents/coding-144/springbooto2o/target/classes started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 09:58:35.253 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2021-04-07 09:58:36.774 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 1.675 seconds (JVM running for 2.377)
+2021-04-07 10:12:44.343 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on qiyoudeMac-mini.local with PID 8753 (/Users/qiyou/Documents/coding-144/springbooto2o/target/classes started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:12:44.344 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2021-04-07 10:12:45.873 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 1.686 seconds (JVM running for 2.129)
+2021-04-07 10:15:28.047 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on qiyoudeMac-mini.local with PID 8771 (/Users/qiyou/Documents/coding-144/springbooto2o/target/classes started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:15:28.048 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2021-04-07 10:15:29.495 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 1.603 seconds (JVM running for 2.209)
+2021-04-07 10:23:43.757 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on qiyoudeMac-mini.local with PID 8806 (started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:23:43.758 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2021-04-07 10:23:45.861 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 2.446 seconds (JVM running for 3.159)
+2021-04-07 10:24:52.021 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on qiyoudeMac-mini.local with PID 8817 (started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:24:52.022 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2021-04-07 10:24:54.180 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Started AreaDaoTest in 2.364 seconds (JVM running for 3.065)
+2021-04-07 10:25:24.890 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on qiyoudeMac-mini.local with PID 8820 (started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:25:24.891 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2021-04-07 10:25:27.022 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Started AreaDaoTest in 2.361 seconds (JVM running for 3.072)
+2021-04-07 10:26:19.402 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on qiyoudeMac-mini.local with PID 8823 (started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:26:19.404 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2021-04-07 10:26:21.925 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 2.713 seconds (JVM running for 4.021)
+2021-04-07 10:29:41.546 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Starting AreaServiceTest on qiyoudeMac-mini.local with PID 8832 (started by qiyou in /Users/qiyou/Documents/coding-144/springbooto2o)
+2021-04-07 10:29:41.547 [main] INFO  com.imooc.o2o.service.AreaServiceTest - No active profile set, falling back to default profiles: default
+2021-04-07 10:29:43.679 [main] INFO  com.imooc.o2o.service.AreaServiceTest - Started AreaServiceTest in 2.475 seconds (JVM running for 3.138)
