@@ -1,2 +1,2 @@
-# springbooto2o
+# schoolo2o
 springboot
